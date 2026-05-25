@@ -3,3 +3,6 @@
 __pycache__/
 *DS_Store
 node_modules/
+
+# Local screenshot cache used while building brand.json (not part of the dataset)
+homepages/
