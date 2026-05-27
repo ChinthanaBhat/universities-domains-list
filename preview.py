@@ -155,10 +155,18 @@ def build_index(logos_prefix: str = "logos/") -> bytes:
     return body.encode("utf-8")
 
 
+RAW_BASE = (
+    "https://raw.githubusercontent.com/"
+    "benwhalley/universities-domains-list/master/logos/"
+)
+
+
 def write_static() -> Path:
+    # use absolute raw URLs so htmlpreview.github.io can load images
+    # (it serves the HTML from its own origin, so relative paths 404)
     out = REPO / "preview" / "index.html"
     out.parent.mkdir(exist_ok=True)
-    out.write_bytes(build_index(logos_prefix="../logos/"))
+    out.write_bytes(build_index(logos_prefix=RAW_BASE))
     return out
 
 
