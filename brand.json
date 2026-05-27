@@ -12,7 +12,7 @@
   {
     "branding": {
       "logo": "aau.edu.et_logo.png",
-      "shield": "aau.edu.et_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "ET",
@@ -82,7 +82,7 @@
   {
     "branding": {
       "logo": "ajman.ac.ae_logo.png",
-      "shield": "ajman.ac.ae_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "AE",
@@ -102,7 +102,7 @@
   {
     "branding": {
       "logo": "albany.edu_logo.png",
-      "shield": "albany.edu_logo.png",
+      "shield": "albany.edu_shield.png",
       "wordmark": null
     },
     "country": "US",
@@ -132,7 +132,7 @@
   {
     "branding": {
       "logo": "alumnes.ub.edu_logo.svg",
-      "shield": "alumnes.ub.edu_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ES",
@@ -152,7 +152,7 @@
   {
     "branding": {
       "logo": "ammanu.edu.jo_logo.png",
-      "shield": "ammanu.edu.jo_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "JO",
@@ -312,7 +312,7 @@
   {
     "branding": {
       "logo": "aun.edu.eg_logo.jpg",
-      "shield": "aun.edu.eg_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "EG",
@@ -332,7 +332,7 @@
   {
     "branding": {
       "logo": "aut.ac.ir_logo.png",
-      "shield": "aut.ac.ir_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "IR",
@@ -342,7 +342,7 @@
   {
     "branding": {
       "logo": "auth.gr_logo.svg",
-      "shield": "auth.gr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "GR",
@@ -352,7 +352,7 @@
   {
     "branding": {
       "logo": "aydin.edu.tr_logo.svg",
-      "shield": "aydin.edu.tr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TR",
@@ -442,7 +442,7 @@
   {
     "branding": {
       "logo": "bfsu.edu.cn_logo.jpeg",
-      "shield": "bfsu.edu.cn_logo.jpeg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -512,7 +512,7 @@
   {
     "branding": {
       "logo": "bits-pilani.ac.in_logo.svg",
-      "shield": "bits-pilani.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -672,7 +672,7 @@
   {
     "branding": {
       "logo": "bsuir.by_logo.png",
-      "shield": "bsuir.by_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BY",
@@ -892,7 +892,7 @@
   {
     "branding": {
       "logo": "ccu.edu.tw_logo.svg",
-      "shield": "ccu.edu.tw_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TW",
@@ -912,7 +912,7 @@
   {
     "branding": {
       "logo": "central.ucv.ro_logo.png",
-      "shield": "central.ucv.ro_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "RO",
@@ -942,7 +942,7 @@
   {
     "branding": {
       "logo": "chonnam.ac.kr_logo.svg",
-      "shield": "chonnam.ac.kr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -952,7 +952,7 @@
   {
     "branding": {
       "logo": "chula.ac.th_logo.svg",
-      "shield": "chula.ac.th_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TH",
@@ -962,7 +962,7 @@
   {
     "branding": {
       "logo": "chungbuk.ac.kr_logo.png",
-      "shield": "chungbuk.ac.kr_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -1042,7 +1042,7 @@
   {
     "branding": {
       "logo": "cmb.ac.lk_logo.png",
-      "shield": "cmb.ac.lk_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "LK",
@@ -1152,7 +1152,7 @@
   {
     "branding": {
       "logo": "cqu.edu.cn_logo.png",
-      "shield": "cqu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -1212,7 +1212,7 @@
   {
     "branding": {
       "logo": "cuet.ac.bd_logo.svg",
-      "shield": "cuet.ac.bd_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -1262,7 +1262,7 @@
   {
     "branding": {
       "logo": "cvut.cz_logo.svg",
-      "shield": "cvut.cz_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CZ",
@@ -1412,7 +1412,7 @@
   {
     "branding": {
       "logo": "dstu.edu.ru_logo.png",
-      "shield": "dstu.edu.ru_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "RU",
@@ -1432,7 +1432,7 @@
   {
     "branding": {
       "logo": "du.ac.bd_logo.svg",
-      "shield": "du.ac.bd_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -1492,7 +1492,7 @@
   {
     "branding": {
       "logo": "duytan.edu.vn_logo.png",
-      "shield": "duytan.edu.vn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "VN",
@@ -1672,7 +1672,7 @@
   {
     "branding": {
       "logo": "ewha.ac.kr_logo.svg",
-      "shield": "ewha.ac.kr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -1742,7 +1742,7 @@
   {
     "branding": {
       "logo": "fcu.edu.tw_logo.svg",
-      "shield": "fcu.edu.tw_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TW",
@@ -2072,7 +2072,7 @@
   {
     "branding": {
       "logo": "hi.is_logo.svg",
-      "shield": "hi.is_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IS",
@@ -2112,7 +2112,7 @@
   {
     "branding": {
       "logo": "hkbu.edu.hk_logo.svg",
-      "shield": "hkbu.edu.hk_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "HK",
@@ -2132,7 +2132,7 @@
   {
     "branding": {
       "logo": "hnu.edu.cn_logo.png",
-      "shield": "hnu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -2142,7 +2142,7 @@
   {
     "branding": {
       "logo": "hokudai.ac.jp_logo.svg",
-      "shield": "hokudai.ac.jp_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "JP",
@@ -2242,7 +2242,7 @@
   {
     "branding": {
       "logo": "hust.edu.vn_logo.png",
-      "shield": "hust.edu.vn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "VN",
@@ -2312,7 +2312,7 @@
   {
     "branding": {
       "logo": "iiita.com_logo.png",
-      "shield": "iiita.com_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -2332,7 +2332,7 @@
   {
     "branding": {
       "logo": "iitb.ac.in_logo.svg",
-      "shield": "iitb.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -2362,7 +2362,7 @@
   {
     "branding": {
       "logo": "iiti.ac.in_logo.svg",
-      "shield": "iiti.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -2382,7 +2382,7 @@
   {
     "branding": {
       "logo": "iitm.ac.in_logo.svg",
-      "shield": "iitm.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -2392,7 +2392,7 @@
   {
     "branding": {
       "logo": "iitr.ac.in_logo.svg",
-      "shield": "iitr.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -2442,7 +2442,7 @@
   {
     "branding": {
       "logo": "indiana.edu_logo.svg",
-      "shield": "indiana.edu_logo.svg",
+      "shield": "indiana.edu_shield.svg",
       "wordmark": null
     },
     "country": "US",
@@ -2492,7 +2492,7 @@
   {
     "branding": {
       "logo": "ipu.ac.in_logo.svg",
-      "shield": "ipu.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -2502,7 +2502,7 @@
   {
     "branding": {
       "logo": "istanbul.edu.tr_logo.svg",
-      "shield": "istanbul.edu.tr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TR",
@@ -2612,7 +2612,7 @@
   {
     "branding": {
       "logo": "jlu.edu.cn_logo.png",
-      "shield": "jlu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -2622,7 +2622,7 @@
   {
     "branding": {
       "logo": "jmi.ac.in_logo.svg",
-      "shield": "jmi.ac.in_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": null,
@@ -2642,7 +2642,7 @@
   {
     "branding": {
       "logo": "ju.edu.jo_logo.svg",
-      "shield": "ju.edu.jo_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "JO",
@@ -2652,7 +2652,7 @@
   {
     "branding": {
       "logo": "juniv.edu_logo.svg",
-      "shield": "juniv.edu_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -2712,7 +2712,7 @@
   {
     "branding": {
       "logo": "kau.edu.sa_logo.png",
-      "shield": "kau.edu.sa_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "SA",
@@ -2722,7 +2722,7 @@
   {
     "branding": {
       "logo": "kaznu.kz_logo.jpg",
-      "shield": "kaznu.kz_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KZ",
@@ -2792,7 +2792,7 @@
   {
     "branding": {
       "logo": "kfu.edu.sa_logo.png",
-      "shield": "kfu.edu.sa_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "SA",
@@ -2862,7 +2862,7 @@
   {
     "branding": {
       "logo": "kku.ac.th_logo.jpg",
-      "shield": "kku.ac.th_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TH",
@@ -2872,7 +2872,7 @@
   {
     "branding": {
       "logo": "kmitl.ac.th_logo.svg",
-      "shield": "kmitl.ac.th_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TH",
@@ -2882,7 +2882,7 @@
   {
     "branding": {
       "logo": "kmutnb.ac.th_logo.svg",
-      "shield": "kmutnb.ac.th_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TH",
@@ -2922,7 +2922,7 @@
   {
     "branding": {
       "logo": "konkuk.ac.kr_logo.svg",
-      "shield": "konkuk.ac.kr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -2982,7 +2982,7 @@
   {
     "branding": {
       "logo": "kth.se_logo.svg",
-      "shield": "kth.se_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "SE",
@@ -3012,7 +3012,7 @@
   {
     "branding": {
       "logo": "ku.ac.bd_logo.svg",
-      "shield": "ku.ac.bd_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -3032,7 +3032,7 @@
   {
     "branding": {
       "logo": "ku.ac.th_logo.svg",
-      "shield": "ku.ac.th_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TH",
@@ -3072,7 +3072,7 @@
   {
     "branding": {
       "logo": "kuet.ac.bd_logo.svg",
-      "shield": "kuet.ac.bd_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -3132,7 +3132,7 @@
   {
     "branding": {
       "logo": "kyungpook.ac.kr_logo.jpg",
-      "shield": "kyungpook.ac.kr_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -3162,7 +3162,7 @@
   {
     "branding": {
       "logo": "lamolina.edu.pe_logo.png",
-      "shield": "lamolina.edu.pe_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "PE",
@@ -3182,7 +3182,7 @@
   {
     "branding": {
       "logo": "lancaster.edu.gh_logo.svg",
-      "shield": "lancaster.edu.gh_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "GH",
@@ -3262,7 +3262,7 @@
   {
     "branding": {
       "logo": "lincoln.ac.uk_logo.png",
-      "shield": "lincoln.ac.uk_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "GB",
@@ -3482,7 +3482,7 @@
   {
     "branding": {
       "logo": "manas.kg_logo.svg",
-      "shield": "manas.kg_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KG",
@@ -3592,7 +3592,7 @@
   {
     "branding": {
       "logo": "mdx.ac.uk_logo.svg",
-      "shield": "mdx.ac.uk_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "GB",
@@ -3722,7 +3722,7 @@
   {
     "branding": {
       "logo": "mpgu.su_logo.svg",
-      "shield": "mpgu.su_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "RU",
@@ -3892,7 +3892,7 @@
   {
     "branding": {
       "logo": "ncku.edu.tw_logo.svg",
-      "shield": "ncku.edu.tw_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": null,
@@ -3922,7 +3922,7 @@
   {
     "branding": {
       "logo": "ncu.edu.tw_logo.svg",
-      "shield": "ncu.edu.tw_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TW",
@@ -4012,7 +4012,7 @@
   {
     "branding": {
       "logo": "njnu.edu.cn_logo.png",
-      "shield": "njnu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -4022,7 +4022,7 @@
   {
     "branding": {
       "logo": "nju.edu.cn_logo.svg",
-      "shield": "nju.edu.cn_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -4032,7 +4032,7 @@
   {
     "branding": {
       "logo": "njust.edu.cn_logo.svg",
-      "shield": "njust.edu.cn_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -4132,7 +4132,7 @@
   {
     "branding": {
       "logo": "ntnu.edu.tw_logo.svg",
-      "shield": "ntnu.edu.tw_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TW",
@@ -4212,7 +4212,7 @@
   {
     "branding": {
       "logo": "nuaa.edu.cn_logo.png",
-      "shield": "nuaa.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -4362,7 +4362,7 @@
   {
     "branding": {
       "logo": "osmania.ac.in_logo.png",
-      "shield": "osmania.ac.in_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -4522,7 +4522,7 @@
   {
     "branding": {
       "logo": "plymouth.ac.uk_logo.png",
-      "shield": "plymouth.ac.uk_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "GB",
@@ -4672,7 +4672,7 @@
   {
     "branding": {
       "logo": "pub.ro_logo.png",
-      "shield": "pub.ro_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "RO",
@@ -4692,7 +4692,7 @@
   {
     "branding": {
       "logo": "puchd.ac.in_logo.png",
-      "shield": "puchd.ac.in_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "IN",
@@ -4722,7 +4722,7 @@
   {
     "branding": {
       "logo": "pucsp.br_logo.png",
-      "shield": "pucsp.br_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BR",
@@ -4732,7 +4732,7 @@
   {
     "branding": {
       "logo": "pu.edu.pk_logo.png",
-      "shield": "pu.edu.pk_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "PK",
@@ -4752,7 +4752,7 @@
   {
     "branding": {
       "logo": "pusan.ac.kr_logo.svg",
-      "shield": "pusan.ac.kr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -4762,7 +4762,7 @@
   {
     "branding": {
       "logo": "qau.edu.pk_logo.png",
-      "shield": "qau.edu.pk_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "PK",
@@ -4842,7 +4842,7 @@
   {
     "branding": {
       "logo": "rdg.ac.uk_logo.svg",
-      "shield": "rdg.ac.uk_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "GB",
@@ -4942,7 +4942,7 @@
   {
     "branding": {
       "logo": "rsuh.ru_logo.svg",
-      "shield": "rsuh.ru_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "RU",
@@ -4962,7 +4962,7 @@
   {
     "branding": {
       "logo": "ru.ac.bd_logo.svg",
-      "shield": "ru.ac.bd_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -4972,7 +4972,7 @@
   {
     "branding": {
       "logo": "ru.ac.za_logo.png",
-      "shield": "ru.ac.za_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "ZA",
@@ -5022,7 +5022,7 @@
   {
     "branding": {
       "logo": "ru.nl_logo.png",
-      "shield": "ru.nl_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "NL",
@@ -5162,7 +5162,7 @@
   {
     "branding": {
       "logo": "scut.edu.cn_logo.png",
-      "shield": "scut.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -5222,7 +5222,7 @@
   {
     "branding": {
       "logo": "sejong.ac.kr_logo.svg",
-      "shield": "sejong.ac.kr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -5232,7 +5232,7 @@
   {
     "branding": {
       "logo": "seu.ac.bd_logo.png",
-      "shield": "seu.ac.bd_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -5302,7 +5302,7 @@
   {
     "branding": {
       "logo": "shibaura-it.ac.jp_logo.svg",
-      "shield": "shibaura-it.ac.jp_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "JP",
@@ -5312,7 +5312,7 @@
   {
     "branding": {
       "logo": "shirazu.ac.ir_logo.jpg",
-      "shield": "shirazu.ac.ir_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IR",
@@ -5322,7 +5322,7 @@
   {
     "branding": {
       "logo": "shisu.edu.cn_logo.png",
-      "shield": "shisu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -5352,7 +5352,7 @@
   {
     "branding": {
       "logo": "shu.edu.cn_logo.svg",
-      "shield": "shu.edu.cn_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -5382,7 +5382,7 @@
   {
     "branding": {
       "logo": "sjtu.edu.cn_logo.png",
-      "shield": "sjtu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -5462,7 +5462,7 @@
   {
     "branding": {
       "logo": "sookmyung.ac.kr_logo.svg",
-      "shield": "sookmyung.ac.kr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KR",
@@ -5612,7 +5612,7 @@
   {
     "branding": {
       "logo": "su.ac.th_logo.png",
-      "shield": "su.ac.th_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "TH",
@@ -5672,7 +5672,7 @@
   {
     "branding": {
       "logo": "sust.edu_logo.png",
-      "shield": "sust.edu_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -5762,7 +5762,7 @@
   {
     "branding": {
       "logo": "szu.edu.cn_logo.svg",
-      "shield": "szu.edu.cn_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -5822,7 +5822,7 @@
   {
     "branding": {
       "logo": "technion.ac.il_logo.svg",
-      "shield": "technion.ac.il_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IL",
@@ -5832,7 +5832,7 @@
   {
     "branding": {
       "logo": "tec.mx_logo.svg",
-      "shield": "tec.mx_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "MX",
@@ -5842,7 +5842,7 @@
   {
     "branding": {
       "logo": "temple.edu_logo.svg",
-      "shield": "temple.edu_logo.svg",
+      "shield": "temple.edu_shield.svg",
       "wordmark": null
     },
     "country": "US",
@@ -5852,7 +5852,7 @@
   {
     "branding": {
       "logo": "thu.edu.tw_logo.svg",
-      "shield": "thu.edu.tw_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "TW",
@@ -5892,7 +5892,7 @@
   {
     "branding": {
       "logo": "tju.edu.cn_logo.png",
-      "shield": "tju.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -6182,7 +6182,7 @@
   {
     "branding": {
       "logo": "uach.cl_logo.svg",
-      "shield": "uach.cl_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CL",
@@ -6232,7 +6232,7 @@
   {
     "branding": {
       "logo": "uahurtado.cl_logo.jpg",
-      "shield": "uahurtado.cl_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CL",
@@ -6272,7 +6272,7 @@
   {
     "branding": {
       "logo": "uanl.mx_logo.svg",
-      "shield": "uanl.mx_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "MX",
@@ -6322,7 +6322,7 @@
   {
     "branding": {
       "logo": "ub.ac.id_logo.svg",
-      "shield": "ub.ac.id_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ID",
@@ -6362,7 +6362,7 @@
   {
     "branding": {
       "logo": "ub.edu.pl_logo.svg",
-      "shield": "ub.edu.pl_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "PL",
@@ -6382,7 +6382,7 @@
   {
     "branding": {
       "logo": "uc3m.es_logo.svg",
-      "shield": "uc3m.es_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ES",
@@ -6492,7 +6492,7 @@
   {
     "branding": {
       "logo": "uc.edu.ve_logo.png",
-      "shield": "uc.edu.ve_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "VE",
@@ -6612,7 +6612,7 @@
   {
     "branding": {
       "logo": "ucn.edu.co_logo.png",
-      "shield": "ucn.edu.co_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CO",
@@ -6732,7 +6732,7 @@
   {
     "branding": {
       "logo": "uct.ac.za_logo.svg",
-      "shield": "uct.ac.za_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ZA",
@@ -6742,7 +6742,7 @@
   {
     "branding": {
       "logo": "ucv.ve_logo.svg",
-      "shield": "ucv.ve_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "VE",
@@ -6842,7 +6842,7 @@
   {
     "branding": {
       "logo": "ufba.br_logo.png",
-      "shield": "ufba.br_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BR",
@@ -6892,7 +6892,7 @@
   {
     "branding": {
       "logo": "ufpb.br_logo.png",
-      "shield": "ufpb.br_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BR",
@@ -6912,7 +6912,7 @@
   {
     "branding": {
       "logo": "ufrgs.br_logo.svg",
-      "shield": "ufrgs.br_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BR",
@@ -6952,7 +6952,7 @@
   {
     "branding": {
       "logo": "ug.edu.gh_logo.svg",
-      "shield": "ug.edu.gh_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "GH",
@@ -6992,7 +6992,7 @@
   {
     "branding": {
       "logo": "ugto.mx_logo.svg",
-      "shield": "ugto.mx_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "MX",
@@ -7022,7 +7022,7 @@
   {
     "branding": {
       "logo": "ui.ac.id_logo.svg",
-      "shield": "ui.ac.id_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ID",
@@ -7132,7 +7132,7 @@
   {
     "branding": {
       "logo": "uiu.ac.bd_logo.svg",
-      "shield": "uiu.ac.bd_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BD",
@@ -7152,7 +7152,7 @@
   {
     "branding": {
       "logo": "uj.edu.pl_logo.svg",
-      "shield": "uj.edu.pl_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "PL",
@@ -7352,7 +7352,7 @@
   {
     "branding": {
       "logo": "um.edu.mo_logo.svg",
-      "shield": "um.edu.mo_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "MO",
@@ -7432,7 +7432,7 @@
   {
     "branding": {
       "logo": "ums.ac.id_logo.svg",
-      "shield": "ums.ac.id_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ID",
@@ -7472,7 +7472,7 @@
   {
     "branding": {
       "logo": "umu.se_logo.svg",
-      "shield": "umu.se_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "SE",
@@ -7482,7 +7482,7 @@
   {
     "branding": {
       "logo": "unair.ac.id_logo.png",
-      "shield": "unair.ac.id_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "ID",
@@ -7512,7 +7512,7 @@
   {
     "branding": {
       "logo": "unand.ac.id_logo.png",
-      "shield": "unand.ac.id_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "ID",
@@ -7612,7 +7612,7 @@
   {
     "branding": {
       "logo": "uniandes.edu.co_logo.svg",
-      "shield": "uniandes.edu.co_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CO",
@@ -7742,7 +7742,7 @@
   {
     "branding": {
       "logo": "uni.edu.pe_logo.jpg",
-      "shield": "uni.edu.pe_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "PE",
@@ -7822,7 +7822,7 @@
   {
     "branding": {
       "logo": "uni-hamburg.de_logo.svg",
-      "shield": "uni-hamburg.de_logo.svg",
+      "shield": "uni-hamburg.de_shield.svg",
       "wordmark": null
     },
     "country": "DE",
@@ -7852,7 +7852,7 @@
   {
     "branding": {
       "logo": "uni-jena.de_logo.svg",
-      "shield": "uni-jena.de_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "DE",
@@ -7962,7 +7962,7 @@
   {
     "branding": {
       "logo": "uni-mannheim.de_logo.svg",
-      "shield": "uni-mannheim.de_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "DE",
@@ -8082,7 +8082,7 @@
   {
     "branding": {
       "logo": "unipr.it_logo.jpg",
-      "shield": "unipr.it_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IT",
@@ -8142,7 +8142,7 @@
   {
     "branding": {
       "logo": "uni-rostock.de_logo.png",
-      "shield": "uni-rostock.de_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "DE",
@@ -8162,7 +8162,7 @@
   {
     "branding": {
       "logo": "unisabana.edu.co_logo.png",
-      "shield": "unisabana.edu.co_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CO",
@@ -8202,7 +8202,7 @@
   {
     "branding": {
       "logo": "unisr.it_logo.jpeg",
-      "shield": "unisr.it_logo.jpeg",
+      "shield": null,
       "wordmark": null
     },
     "country": null,
@@ -8232,7 +8232,7 @@
   {
     "branding": {
       "logo": "unitn.it_logo.svg",
-      "shield": "unitn.it_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IT",
@@ -8302,7 +8302,7 @@
   {
     "branding": {
       "logo": "universityofgalway.ie_logo.png",
-      "shield": "universityofgalway.ie_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "IE",
@@ -8312,7 +8312,7 @@
   {
     "branding": {
       "logo": "univ-fcomte.fr_logo.svg",
-      "shield": "univ-fcomte.fr_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "FR",
@@ -8482,7 +8482,7 @@
   {
     "branding": {
       "logo": "unsa.ba_logo.svg",
-      "shield": "unsa.ba_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "BA",
@@ -8552,7 +8552,7 @@
   {
     "branding": {
       "logo": "uobasrah.edu.iq_logo.jpg",
-      "shield": "uobasrah.edu.iq_logo.jpg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IQ",
@@ -8562,7 +8562,7 @@
   {
     "branding": {
       "logo": "uob.edu.bh_logo.png",
-      "shield": "uob.edu.bh_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "BH",
@@ -8582,7 +8582,7 @@
   {
     "branding": {
       "logo": "uofk.edu_logo.jpeg",
-      "shield": "uofk.edu_logo.jpeg",
+      "shield": null,
       "wordmark": null
     },
     "country": "SD",
@@ -8592,7 +8592,7 @@
   {
     "branding": {
       "logo": "uoguelph.ca_logo.png",
-      "shield": "uoguelph.ca_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CA",
@@ -8622,7 +8622,7 @@
   {
     "branding": {
       "logo": "uok.edu.pk_logo.png",
-      "shield": "uok.edu.pk_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "PK",
@@ -8772,7 +8772,7 @@
   {
     "branding": {
       "logo": "upesh.edu_logo.png",
-      "shield": "upesh.edu_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "PK",
@@ -8812,7 +8812,7 @@
   {
     "branding": {
       "logo": "upm.es_logo.png",
-      "shield": "upm.es_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "ES",
@@ -9062,7 +9062,7 @@
   {
     "branding": {
       "logo": "usm.my_logo.svg",
-      "shield": "usm.my_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "MY",
@@ -9072,7 +9072,7 @@
   {
     "branding": {
       "logo": "uson.mx_logo.svg",
-      "shield": "uson.mx_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "MX",
@@ -9102,7 +9102,7 @@
   {
     "branding": {
       "logo": "ustb.edu.cn_logo.png",
-      "shield": "ustb.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -9142,7 +9142,7 @@
   {
     "branding": {
       "logo": "usu.ac.id_logo.svg",
-      "shield": "usu.ac.id_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "ID",
@@ -9172,7 +9172,7 @@
   {
     "branding": {
       "logo": "ut.ac.ir_logo.svg",
-      "shield": "ut.ac.ir_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "IR",
@@ -9232,7 +9232,7 @@
   {
     "branding": {
       "logo": "ut.ee_logo.svg",
-      "shield": "ut.ee_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "EE",
@@ -9282,7 +9282,7 @@
   {
     "branding": {
       "logo": "utm.my_logo.png",
-      "shield": "utm.my_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "MY",
@@ -9332,7 +9332,7 @@
   {
     "branding": {
       "logo": "utpl.edu.ec_logo.png",
-      "shield": "utpl.edu.ec_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "EC",
@@ -9412,7 +9412,7 @@
   {
     "branding": {
       "logo": "uu.nl_logo.svg",
-      "shield": "uu.nl_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "NL",
@@ -9422,7 +9422,7 @@
   {
     "branding": {
       "logo": "uu.se_logo.svg",
-      "shield": "uu.se_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "SE",
@@ -9492,7 +9492,7 @@
   {
     "branding": {
       "logo": "uwaterloo.ca_logo.svg",
-      "shield": "uwaterloo.ca_logo.svg",
+      "shield": "uwaterloo.ca_shield.svg",
       "wordmark": null
     },
     "country": "CA",
@@ -9532,7 +9532,7 @@
   {
     "branding": {
       "logo": "uw.edu.pl_logo.svg",
-      "shield": "uw.edu.pl_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "PL",
@@ -9722,7 +9722,7 @@
   {
     "branding": {
       "logo": "waikato.ac.nz_logo.svg",
-      "shield": "waikato.ac.nz_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "NZ",
@@ -9782,7 +9782,7 @@
   {
     "branding": {
       "logo": "wfu.edu_logo.svg",
-      "shield": "wfu.edu_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "US",
@@ -9792,7 +9792,7 @@
   {
     "branding": {
       "logo": "whu.edu.cn_logo.png",
-      "shield": "whu.edu.cn_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -9932,7 +9932,7 @@
   {
     "branding": {
       "logo": "xmu.edu.cn_logo.svg",
-      "shield": "xmu.edu.cn_logo.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "CN",
@@ -10032,7 +10032,7 @@
   {
     "branding": {
       "logo": "yu.edu.jo_logo.png",
-      "shield": "yu.edu.jo_logo.png",
+      "shield": null,
       "wordmark": null
     },
     "country": "JO",
