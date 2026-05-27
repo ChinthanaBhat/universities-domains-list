@@ -3,12 +3,12 @@
 name: CI
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# events but only for the main branch
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 permissions: read-all
 
@@ -36,6 +36,9 @@ jobs:
           VALIDATE_JSON_PRETTIER: false
           VALIDATE_MARKDOWN: false
           JAVASCRIPT_DEFAULT_STYLE: prettier
+          # logos/ holds third-party SVG assets; preview/index.html is generated.
+          # Both contain near-duplicate markup that trips JSCPD and other linters.
+          FILTER_REGEX_EXCLUDE: (logos/.*|preview/.*)
 
       - name: Set up Python
         uses: actions/setup-python@v5

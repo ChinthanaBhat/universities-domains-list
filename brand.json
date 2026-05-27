@@ -3022,7 +3022,7 @@
   {
     "branding": {
       "logo": "ku.ac.ke_logo.png",
-      "shield": "ku.ac.ke_shield.svg",
+      "shield": null,
       "wordmark": null
     },
     "country": "KE",

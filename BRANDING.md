@@ -44,10 +44,17 @@ Most assets here were sourced from each institution's official site or
 its Wikipedia infobox. Many crests are trademarked — this repo does not
 relicense them; consumers are responsible for their own use.
 
-### Browse the assets locally
+### Browse the assets
+
+A static copy is rendered to [`preview/index.html`](preview/index.html) on
+every preview run and committed to the repo, so you can view it directly:
+<https://htmlpreview.github.io/?https://github.com/benwhalley/universities-domains-list/blob/main/preview/index.html>
+
+To regenerate / browse locally:
 
 ```sh
-uv run preview.py        # or: python3 preview.py
+uv run preview.py            # writes preview/index.html, then serves on :8000
+uv run preview.py --static   # write the static copy only, no server
 ```
 
 Visit <http://localhost:8000/> for a searchable grid of every entry

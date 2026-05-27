@@ -117,7 +117,7 @@ function u(){const q=input.value.trim().toLowerCase(),cn=sel.value;let v=0;
 """
 
 
-def render_card(entry: dict) -> str:
+def render_card(entry: dict, logos_prefix: str = "logos/") -> str:
     domain = entry["domain"]
     name = entry.get("name") or ""
     country = ISO_NAMES.get(entry.get("country") or "", entry.get("country") or "")
@@ -130,7 +130,7 @@ def render_card(entry: dict) -> str:
         if not rel:
             continue
         # brand.json stores bare filenames; assets live under logos/
-        url = rel if "/" in rel else f"logos/{rel}"
+        url = rel if "/" in rel else f"{logos_prefix}{rel}"
         pairs.append(
             f'<div class="pair"><img src="{url}" alt="{kind}" loading="lazy">'
             f'<small>{kind}</small></div>'
@@ -148,11 +148,18 @@ def render_card(entry: dict) -> str:
     )
 
 
-def build_index() -> bytes:
+def build_index(logos_prefix: str = "logos/") -> bytes:
     entries = json.loads(BRAND_JSON.read_text())
     entries.sort(key=lambda e: e["domain"])
-    body = HEAD + "\n".join(render_card(e) for e in entries) + FOOT
+    body = HEAD + "\n".join(render_card(e, logos_prefix) for e in entries) + FOOT
     return body.encode("utf-8")
+
+
+def write_static() -> Path:
+    out = REPO / "preview" / "index.html"
+    out.parent.mkdir(exist_ok=True)
+    out.write_bytes(build_index(logos_prefix="../logos/"))
+    return out
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -173,6 +180,10 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main() -> int:
+    out = write_static()
+    print(f"wrote static copy to {out.relative_to(REPO)}", flush=True)
+    if len(sys.argv) > 1 and sys.argv[1] == "--static":
+        return 0
     port = int(sys.argv[1]) if len(sys.argv) > 1 else 8000
     server = HTTPServer(("127.0.0.1", port), Handler)
     print(f"serving brand browser on http://127.0.0.1:{port}", flush=True)
