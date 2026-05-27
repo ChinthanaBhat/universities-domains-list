@@ -48,7 +48,7 @@ relicense them; consumers are responsible for their own use.
 
 A static copy is rendered to [`preview/index.html`](preview/index.html) on
 every preview run and committed to the repo, so you can view it directly:
-<https://htmlpreview.github.io/?https://github.com/benwhalley/universities-domains-list/blob/main/preview/index.html>
+<https://htmlpreview.github.io/?https://github.com/benwhalley/universities-domains-list/blob/master/preview/index.html>
 
 To regenerate / browse locally:
 
